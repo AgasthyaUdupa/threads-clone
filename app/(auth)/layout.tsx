@@ -9,7 +9,7 @@ import "../globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Threads",
+  title: "Threads-AG",
   description: "Threads clone by using Next.Js",
 };
 
